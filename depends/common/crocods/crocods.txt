@@ -1,1 +1,1 @@
-crocods https://github.com/libretro/libretro-crocods/archive/76588a148dbbcc21575194898f90eab28659d4c3.zip
+crocods https://github.com/libretro/libretro-crocods/archive/8d8443cd68093dab195e38973374159c8daefa96.zip
