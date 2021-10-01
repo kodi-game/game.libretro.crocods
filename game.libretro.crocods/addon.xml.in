@@ -24,5 +24,7 @@
 		</assets>
 		<summary lang="en_GB">Amstrad - CPC (CrocoDS) git</summary>
 		<description lang="en_GB">CrocoDS is an Amstrad CPC 6128 emulator based on Win-CPC. It was originally created for the Nintendo DS.</description>
+		<description lang="ko_KR">CrocoDS는 Win-CPC를 기반으로 하는 Amstrad CPC 6128 에뮬레이터입니다. 원래 닌텐도 DS용으로 제작되었습니다.</description>
+		<description lang="zh_CN">CrocoDS 是基于 Win CPC 的 Amstrad CPC 6128 仿真器。它最初是为任天堂 DS 设计的。</description>
 	</extension>
 </addon>
