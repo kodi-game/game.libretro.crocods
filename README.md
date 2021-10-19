@@ -4,17 +4,21 @@
 # Amstrad - CPC (CrocoDS)
 
 ### Description
+
 CrocoDS is an Amstrad CPC 6128 emulator based on Win-CPC. It was originally created for the Nintendo DS.
 
 ### License
+
 MIT
 
 ### Icon
 
 ![Icon](game.libretro.crocods/resources/icon.png)
 
+### Fanart
+
+Help make me fanart!
+
 ### Screenshots
 
 ![Screenshot](game.libretro.crocods/resources/screenshot-01.jpg)
-
-
