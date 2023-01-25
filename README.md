@@ -13,7 +13,7 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.crocods/resources/icon.png)
+![Amstrad - CPC (CrocoDS) icon](game.libretro.crocods/resources/icon.png)
 
 ### Fanart
 
@@ -21,4 +21,4 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.crocods/resources/screenshot-01.jpg)
+![Amstrad - CPC (CrocoDS) screenshot](game.libretro.crocods/resources/screenshot-01.jpg)
