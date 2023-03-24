@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Amstrad - CPC (CrocoDS) git"
+msgid "Amstrad - CPC (CrocoDS)"
 msgstr ""
 
 msgctxt "Addon Description"
