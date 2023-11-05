@@ -28,6 +28,7 @@
 		<summary lang="en_GB">Amstrad - CPC (CrocoDS)</summary>
 		<summary lang="es_ES">Amstrad - CPC (CrocoDS)</summary>
 		<summary lang="it_IT">Amstrad - CPC (CrocoDS)</summary>
+		<summary lang="ru_RU">Amstrad - CPC (CrocoDS)</summary>
 		<summary lang="zh_CN">Amstrad - CPC (CrocoDS)</summary>
 		<description lang="da_DK">CrocoDS er en Amstrad CPC 6128 emulator baseret på Win-CPC. Den blev oprindeligt skabt til Nintendo DS.</description>
 		<description lang="de_DE">CrocoDS ist ein auf Win-CPC basierender Amstrad-CPC-6128-Emulator. Er wurde ursprünglich für den Nintendo DS entwickelt.</description>
@@ -36,6 +37,7 @@
 		<description lang="fr_FR">CrocoDS est un émulateur Amstrad CPC 6128 basé sur Win-CPC. Il a été créé à l&apos;origine pour la Nintendo DS.</description>
 		<description lang="it_IT">CrocoDS è un emulatore Amstrad CPC 6128 basato su Win-CPC. È stato originariamente creato per il Nintendo DS.</description>
 		<description lang="ko_KR">CrocoDS는 Win-CPC를 기반으로 하는 Amstrad CPC 6128 에뮬레이터입니다. 원래 닌텐도 DS용으로 제작되었습니다.</description>
+		<description lang="ru_RU">CrocoDS — это эмулятор Amstrad CPC 6128, основанный на Win-CPC. Первоначально он был создан для Nintendo DS.</description>
 		<description lang="zh_CN">CrocoDS 是基于 Win CPC 的 Amstrad CPC 6128 仿真器。它最初是为任天堂 DS 设计的。</description>
 	</extension>
 </addon>
