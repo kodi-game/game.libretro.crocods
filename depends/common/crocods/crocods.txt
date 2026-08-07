@@ -1,1 +1,1 @@
-crocods https://github.com/libretro/libretro-crocods/archive/87bbb3d9007ac537864278c6c3149ae3291873f8.tar.gz
+crocods https://github.com/libretro/libretro-crocods/archive/a9c63b29443715ae2add392010fca4eae7f93e67.tar.gz
